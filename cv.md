@@ -48,6 +48,7 @@ Training projects:
 
 
 ### Education
+
 | Dates  | Description  |
 | :---  | :---  |
 | 2022, May- now | **Data and SQL** Course at CFG, the UK (remote) |
