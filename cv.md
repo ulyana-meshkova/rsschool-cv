@@ -33,6 +33,10 @@ multiply = function (a, b) {
 ```
 ### Job experience
 
+Training projects:
+- [Oxygen](http://fe.it-academy.by/Sites/0039468/index.html)
+- [Productly](http://fe.it-academy.by/Sites/0039198/index.html)
+
 | Dates  | Position, Company |
 | :---  | :---  |
 | 2021- 2022 | Freelance |
