@@ -46,16 +46,15 @@ Training projects:
 | 2014 -2016 | Translator |
 | 2012- 2013 | Specialist at a travel agency |
 
-
 ### Education
 
-| Dates  | Description  |
+| Dates  | Description |
 | :---  | :---  |
 | 2022, May- now | **Data and SQL** Course at CFG, the UK (remote) |
 | 2022, Jan- Mar | Digital **Academic drawing**- basics at SkillsUp, Russia (remote) |
 | 2021, Sep- Dec | **2D Basics** at SkillsUp, Russia (remote) |
-| 2017, Jul- Oct | **Website development with HTML and CSS** at IT Academy, Belarus &emsp; |
-| 2009- 2014     | BSU International affairs specialist, translator |
+| 2017, Jul- Oct | **Website development with HTML and CSS** at IT Academy, Belarus |
+| 2009- 2014 | BSU International affairs specialist, translator |
 
 ### Languages
 - English C1+/C2 (2016- CAE)
