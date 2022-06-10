@@ -1,3 +1,31 @@
 *{
 box-sizing: border-box;
 }
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #e5e3e6;
+}
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+.header__inner{
+    display: flex;
+}
+.header__photo{
+    max-width: 300px;
+}
+.list{
+    list-style: none;
+}
+.skills-code__inner{
+    display: flex;
+}
+.projects__list{
+    display: flex;
+}
+.project__list-img{
+    max-width: 350px;
+}
