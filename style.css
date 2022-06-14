@@ -94,6 +94,7 @@ h3{
 }
 .projects__list{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
     margin-top: 25px;
 }
@@ -173,5 +174,10 @@ figure a:hover figcaption {
 .footer__items{
     display: flex;
     justify-content: space-between;
-    align-items: center
+    align-items:baseline;
+}
+.github__link{
+    text-decoration: none;
+        font-family: 'Poppins', sans-serif;
+    color: #63575a;
 }
