@@ -41,6 +41,10 @@ h3{
     margin: 0 auto;
     padding: 0 30px;
 }
+.section__inner{
+    padding: 25px 0;
+    border-top: solid #deadb1 2px;
+}
 .header__inner{
     display: flex;
     justify-content:space-between;
@@ -89,9 +93,7 @@ h3{
 .code{
     width: 54%;
 }
-.section__inner{
-    padding: 25px 0;
-}
+
 .projects__list{
     display: flex;
     flex-wrap: wrap;
@@ -166,6 +168,10 @@ figure a:hover figcaption {
 }
 .language__item-title{
     width: 20%;
+    margin-bottom: 0;
+}
+.language__item-level{
+    margin-bottom: 0;
 }
 .contacts__list{
     display: flex;
